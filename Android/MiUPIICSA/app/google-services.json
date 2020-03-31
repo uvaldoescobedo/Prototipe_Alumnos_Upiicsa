@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1020146422262",
+    "firebase_url": "https://miupiicsa.firebaseio.com",
+    "project_id": "miupiicsa",
+    "storage_bucket": "miupiicsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020146422262:android:9ba21696097d2d8051b7d7",
+        "android_client_info": {
+          "package_name": "com.example.miupiicsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020146422262-3ds1r0l5jpjjlo0bbotlm4d659andsbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miupiicsa",
+            "certificate_hash": "c53d7c7d589d790f17b5fa6e2b8df4116c8a583a"
+          }
+        },
+        {
+          "client_id": "1020146422262-loseqnelsb0v5m31708t3us1svc4pp28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYniIymuBFSLI-LuHQNqN7heEyI_CTju0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020146422262-loseqnelsb0v5m31708t3us1svc4pp28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
